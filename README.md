@@ -28,7 +28,7 @@ Add or reduce the number of epochs to the training regimen.
 3.	Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 n1 accuracy of 73.8
  
-n2 accuracy of 72.9
+n3 accuracy of 72.9
  
 n2 accuracy of 72.8
  
